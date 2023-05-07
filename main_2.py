@@ -1,5 +1,3 @@
-#perdoa ai professor, tentei trazer o resultado do IMC, mas nao deu nao
-
 pergunta = int(input("Voce quer ver o seu IMC ou a altura do triangulo?\n1 - Área do triangulo\n2 - IMC\n"))
 
 if pergunta == 1:
